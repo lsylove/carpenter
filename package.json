@@ -1,0 +1,19 @@
+{
+  "name": "carpenter",
+  "version": "1.0.0",
+  "description": "node.js sample project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lsylove/carpenter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lsylove/carpenter/issues"
+  },
+  "homepage": "https://github.com/lsylove/carpenter#README.md"
+}
